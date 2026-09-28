@@ -1,6 +1,6 @@
 # NPSG manuscript code
 
-MATLAB analysis code for **“From Surface Warming to Vertical Phytoplankton Reorganization in the North Pacific Subtropical Gyre.”** The study region is 14–28° N, 160–200° E.
+MATLAB analysis code for **“From Surface Warming to Vertical Phytoplankton Reorganization in the North Pacific Subtropical Gyre.”** The study region is 14-28° N, 160-200° E.
 
 The full methods are in Supplementary Table S1 of the manuscript. [COVERAGE.md](COVERAGE.md) maps its numbered methods to the code.
 
