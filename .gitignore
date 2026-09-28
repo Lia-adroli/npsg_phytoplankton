@@ -1,0 +1,6 @@
+data/
+output/
+*.asv
+*.fig
+*.mat
+.DS_Store
