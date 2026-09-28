@@ -1,6 +1,6 @@
 # NOAA ERSSTv6 files
 
-The SST analysis uses **NOAA ERSSTv6 monthly NetCDF files** from January 1998 through December 2024: 324 files in total. Download them from the [NOAA ERSSTv6 directory](https://www.ncei.noaa.gov/pub/data/cmb/ersst/v5/v6/). File names must begin with `ersst.v6.`, for example `ersst.v6.199801.nc`. ERSSTv5 files are a different product.
+The SST analysis uses **NOAA ERSSTv6 monthly NetCDF files** from January 1998 through December 2024: 324 files in total. Download them from the [NOAA ERSSTv6 directory](https://www.ncei.noaa.gov/pub/data/cmb/ersst/v5/v6/). File names must begin with `ersst.v6.`, for example `ersst.v6.199801.nc`. 
 
 ## Download on Windows
 
